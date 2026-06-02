@@ -1,0 +1,32 @@
+# Build folders
+/out/
+bin/
+build/
+target/
+
+# Java class files
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# Maven / Gradle
+dependency-reduced-pom.xml
+release.properties
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
